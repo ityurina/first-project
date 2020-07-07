@@ -182,8 +182,9 @@
 }
 
 /* свойства текста строки с информацией об авторе */
-.content__text_type_copyright {
+/*.content__text_type_copyright {
   font-size: 16px;
   line-height: 24px;
   margin-bottom: 0;
 }
+*/
